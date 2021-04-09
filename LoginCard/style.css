@@ -1,0 +1,44 @@
+.body {
+    
+    background-color: blue;
+
+}
+
+.box {
+    height: 250px;
+    width: 250px;
+    background-color:white;
+    border: 5px solid black;
+    margin-left: 50%;
+    text-align: center
+    
+}
+
+#username {
+    text-align: left;
+    font-size: 12px;
+    color: blue;
+    margin-left: 75px;
+}
+
+#password {
+    text-align: left;
+    font-size: 12px;
+    color: blue;
+    margin-left: 75px;
+}
+#h1 {
+    color: blue;
+    text-align: center;
+}
+
+.button {
+    height: 25px;
+    width: 50px;
+    background-color: white;
+    text-align: center;
+    font-size: 10px;
+    border: 1px solid black;
+    margin-right: 75px;
+
+}
